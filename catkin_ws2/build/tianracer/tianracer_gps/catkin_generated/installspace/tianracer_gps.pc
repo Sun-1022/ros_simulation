@@ -1,0 +1,8 @@
+prefix=/home/sun/catkin_ws2/install
+
+Name: tianracer_gps
+Description: Description of tianracer_gps
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
